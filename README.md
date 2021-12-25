@@ -21,8 +21,7 @@ The mean temperature of 75°F for June is higher than the mean temperature of 71
 
 <img width="115" alt="June_precipitation_stat" src="https://user-images.githubusercontent.com/92903447/147374827-0eb491df-b227-4356-8ef8-67ba83d92b29.png">
 
-
-## **December Statistics of Temperatures and Precipitation **
+## **December Statistics of Temperatures and Precipitation:**
 
 <img width="116" alt="Dec_precipitation_stat" src="https://user-images.githubusercontent.com/92903447/147374828-494853d5-3c14-4a2f-9819-048195be48df.png">
 
